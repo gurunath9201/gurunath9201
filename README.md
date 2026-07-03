@@ -41,12 +41,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin-right:12px;"/>
 <!-- JIRA (fixed visible version) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" style="margin-right:12px; background:white; padding:5px; border-radius:6px;"/>
-
-<!-- JMeter (fixed visible version) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachejmeter.svg" width="40" style="margin-right:12px; background:white; padding:5px; border-radius:6px;"/>
-  <!-- Cypress (visible fix) -->
-  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" width="40" style="margin-right:12px;"/>
-
   <!-- JUnit -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" style="margin-right:12px;"/>
 
